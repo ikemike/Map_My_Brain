@@ -9,3 +9,6 @@ Feb 14 - 3 hours - Arduino ordered for project, some configuration overview.
 
 Feb 15 - 30 minutes - Arduino package arrived, libraries & setup explored. 
 
+Feb 16 - 30 minutes - Installed brain library, Arduino IDE
+
+Feb 17 - 1 hour  - Script development, testing
